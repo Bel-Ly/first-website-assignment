@@ -175,6 +175,7 @@ main{
   gap: 10px;
   margin-top: 20px;
 }
+
 .contact-section {
   padding: 71px 0px;
   background-color: #f4f7fd;
@@ -208,6 +209,46 @@ main{
   max-height: 490px;
   
 }
+/* === Footer Section === */
+.footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 60px 20px;
+  color: #9ca3af; /* soft gray */
+}
+
+.footer h3 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #4f46e5; /* strong purple */
+  margin-bottom: 20px;
+}
+
+.footer p {
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.footer .links {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.footer .links a {
+  color: #9ca3af;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.footer .links a:hover {
+  color: #4f46e5;
+}
+
 
 .form label {
   font-weight: 500;
@@ -226,5 +267,6 @@ main{
 
 .text{
 font-size: 97 px;
-align-items: center;
+align-items: ;
 }
+
