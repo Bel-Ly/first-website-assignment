@@ -41,7 +41,16 @@
 }
 .action-bg{
   background-color:#FFFFFF;
-
+ display: flex;
+ justify-content: space-between;
+ width: 1140px;
+ height: 328px;
+ align-items: center;
+}
+.action-picture{
+  border-radius: 48px;
+  width: 400;
+  height: 328;
 }
 .banner-content{
     text-align: center;
