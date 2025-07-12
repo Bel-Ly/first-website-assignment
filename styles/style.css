@@ -15,6 +15,21 @@ main{
   max-width: 1140px;
   margin:0 auto;
 }
+.users-section {
+  text-align: center;
+  background-color:rgba(77, 71, 255, 0.13);
+  padding: 50px 80px;
+  border-radius: 24px;
+  margin-top: 130px;
+}
+.stats {
+  display: flex;
+  justify-content: center;
+  gap: 158px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
 .user-title{
   font-weight: bold;
   font-size: 38px;
@@ -71,7 +86,7 @@ main{
 
 }
 .action-bg{
-  background-color:#FFFFFF;
+  background-color:#ffffff6d;
  display: flex;
  justify-content: space-between;
  width: 1140px;
