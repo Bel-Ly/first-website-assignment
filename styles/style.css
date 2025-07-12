@@ -15,6 +15,22 @@ main{
   max-width: 1140px;
   margin:0 auto;
 }
+.user-title{
+  font-weight: bold;
+  font-size: 38px;
+  color: #252432;
+}
+.user-font{
+  font-weight: bold;
+  font-size: 80px;
+  color: #4E47FF;
+}
+.little{
+  font-weight:400;
+  font-size: 20px;
+  color:rgba(0, 0, 0, 0.5);
+
+}
 
 .raleway-font{
   font-family: "Raleway", sans-serif;
