@@ -9,6 +9,12 @@
   font-weight: bold;
   font-style: normal;
 }
+.section-subtilte{
+  font-weight:300;
+  font-size: 24px;
+  color: #252432;
+
+}
 
 .btn-primary{
     background-color: #4E47FF;
@@ -33,7 +39,10 @@
     margin: 0 150px;
 
 }
+.action-bg{
+  background-color:#FFFFFF;
 
+}
 .banner-content{
     text-align: center;
     
