@@ -1,17 +1,23 @@
-.open-sans-normal{
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing:auto;
   font-style: normal;
-  font-variation-settings:
-"wdth" 100;
 }
+.raleway-font{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
 .btn-primary{
     background-color: #4E47FF;
     border:none;
-    border-radius: 5px;
+    border-radius: 10px;
     color:#FFFFFF;
-    padding: 8px;
+    padding: 12px;
+    font-size: 16;
+    gap: 10px;
 }
 
 .nav-bar{
@@ -30,15 +36,15 @@
 
 .nav-title{
     color:#4E47FF ;
-    font-weight: 900px;
-    margin:0;
+    font-size: 34px;
+    font-weight:1000;
+    margin:0
     
 }
 .banner h1{
     font-size: 36px;
-  font-weight:bold;
- 
-  margin-top: 140px;
+   font-weight:bolder;
+   margin-top: 140px;
 }
  
 .header{
